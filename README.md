@@ -15,5 +15,16 @@ I am a React developer with knowledge of Next.js, Node, Express, databases, and 
 ---
 [![](https://visitcount.itsvg.in/api?id=RupeshDev18&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=RupeshDev18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+
+### 😂 Random Dev Meme
+
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
  
 
