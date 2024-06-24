@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a React developer with knowledge of Next.js, Node, Express, databases, and Docker.<br>I'm a fresher and a Computer Science senior.<br><br>🔭 **I'm currently working on:**<br>- Various web development projects<br><br> 👯‍♂️ **I'm looking to collaborate on:**<br>- MERN stack projects,Golang projects and open-source contributions<br><br>🌱 **I'm currently learning:**<br>- GoLang<br><br>💬**Ask me about:**<br>- React, Next.js, Node, Django, Express, and Docker<br><br>⚡**Fun fact:**<br> - i like to travel
+I am a React developer with knowledge of Next.js, Node, Express, databases, and Docker.<br>I'm a fresher and a Computer Science senior.<br><br>🔭 **I'm currently working on:**<br>- Various web development projects<br><br> 👯‍♂️ **I'm looking to collaborate on:**<br>- MERN stack projects,Golang projects and open-source contributions<br><br>🌱 **I'm currently learning:**<br>- GoLang, React Native<br><br>💬**Ask me about:**<br>- React, Next.js, Node, Django, Express, and Docker<br><br>⚡**Fun fact:**<br> - I like to travel.
 
 
 ## 🌐 Socials:
